@@ -1,10 +1,8 @@
 {
   "type": "module",
   "dependencies": {
-    "@ethersproject/keccak256": "^5.7.0",
     "elliptic": "^6.5.4",
     "ethers": "^5.7.2",
-    "jose": "^4.14.4",
-    "web3-eth-accounts": "^4.0.3"
+    "jose": "^4.14.4"
   }
 }
